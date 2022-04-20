@@ -1,4 +1,4 @@
-#- Tel=>> @CYROSIF
+#- Tel=>> @CYROSIF =>> @antiWEAK
 from requests import get
 from time import sleep
 from threading import Thread
